@@ -107,7 +107,7 @@ Lấy repository về máy
 1. Hello world
 
 ```markdown
-consol.log("Hello World");
+console.log("Hello World");
 ```
 
 2. Comment
@@ -255,3 +255,5 @@ Dùng để lặp lại 1 đoạn logic, có thể lặp một số lần nhất
 >while
 
 >do...while
+
+

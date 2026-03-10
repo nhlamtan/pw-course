@@ -7,7 +7,7 @@ if (num > 0) {
 }
 if (num < 0) {
   // nếu hằng số bé hơn 0
-  console.log("Giá tị bạn nhập là số âm");
+  console.log("Giá trị bạn nhập là số âm");
 }
 if (num === 0) {
   // nếu hằng số bằng 0
